@@ -1,0 +1,3 @@
+Config = {}
+
+Config.CommandName = "ckplayer"
