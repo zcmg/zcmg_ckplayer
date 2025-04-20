@@ -8,8 +8,8 @@ lua54 'yes'
 
 shared_scripts {
 	'config.lua',
-	'@es_extended/imports.lua'
---     '@ox_lib/init.lua'
+	'@es_extended/imports.lua',
+    '@ox_lib/init.lua'
 }
 
 client_scripts {
